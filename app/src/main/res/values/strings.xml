@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">Contacts</string>
+    <string name="app_name"> our Contacts</string>
     <string name="login_here">Login Here</string>
+    <string name="welcome_message">Welcome to the Home Page</string>
+    <string-array name ="country">
+        <item>Nepal</item>
+        <item>India</item>
+    <item>America</item>
+    </string-array>
 </resources>
